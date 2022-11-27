@@ -1,0 +1,174 @@
+
+#navbar{
+    border-bottom: 1px solid #44d62c;
+    
+    
+
+}
+
+
+.custom-height{
+    width: 35px;
+    height: 35px;
+    text-align: center !important;
+    justify-content: center !important;
+    display: flex !important;
+    
+
+}
+.bg-color-navbar{
+    background-color: black;
+}
+.razer-notif{
+    background-color: rgb(85,85,85);
+    
+}
+.razer-notiff{
+    font-size: 14px;
+}
+
+@media all and (max-width:575px){
+    .bg5{
+        background-image: url("images/55.jpg");
+        width: 100%;
+        height: 500px;
+        background-size: cover;
+        background-position: center;
+    }
+    .bg6{
+        background-image: url("images/66.jpg");
+        width: 100%;
+        height: 800px;
+        background-size: cover;
+        background-position: bottom; 
+    }
+}
+@media all and (min-width:576px) and (max-width:767px){
+    .bg5{
+        background-image: url("images/55.jpg");
+        width: 100%;
+        height: 500px;
+        background-size: cover;
+        background-position: center;
+    }
+    .bg6{
+        background-image: url("images/66.jpg");
+        width: 100%;
+        height: 800px;
+        background-size: cover;
+        background-position: bottom; 
+    }
+
+}
+@media all and (min-width:768px) and (max-width:991px){
+    .bg5{
+        background-image: url("images/55.jpg");
+        width:100%;
+        height: 500px;
+        background-size: cover;
+        background-position: center;
+    } 
+    .bg6{
+        background-image: url("images/66.jpg");
+        width: 100%;
+        height: 800px;
+        background-size: cover;
+        background-position: bottom; 
+    }
+
+}
+@media all and (min-width:992px) and (max-width:1199px){
+    .bg5{
+        background-image: url("images/55.jpg");
+        width:100%;
+        height: 500px;
+        background-size: cover;
+        background-position: center;
+    }   
+    .bg6{
+        background-image: url("images/66.jpg");
+        width: 100%;
+        height: 800px;
+        background-size: cover;
+        background-position: bottom; 
+    }
+}
+@media all and (min-width:1200px){
+    .bg5{
+        background-image: url("images/55.jpg");
+        width: 100%;
+        height: 500px;
+        background-size: cover;
+        background-position: center;
+    }
+    .bg6{
+        background-image: url("images/66.jpg");
+        width:100%;
+        height: 800px;
+        background-size: cover;
+        background-position: bottom; 
+    }
+}
+
+.bg4{
+  background-image: url("images/44.jpg");
+    width: 100%;
+    height: 900px;
+    background-size: cover;
+    background-position: bottom;  
+}
+.bg3{
+    background-image: url("images/33.jpg");
+    width: 100%;
+height: 850px;
+    background-size: cover;
+    background-position: bottom; 
+}
+
+.bg7{
+    background-image: url("images/77.jpg");
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+    background-position: bottom; 
+}
+.bg8{
+    background-image: url("images/8.jpg");
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+    background-position: bottom; 
+}
+.bg9{
+    background-image: url("images/99.jpg");
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+    background-position: bottom; 
+}
+
+
+
+.bg10{
+    background-image: url("images/100.jpg");
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+    background-position: bottom; 
+}
+.dd{
+    top: 20%;
+    left: 30%;
+}
+.bb{
+    top: 30%;
+    left: 33%;
+}
+.link1{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.hoverlink1:hover{
+    border-bottom:1px solid rgb(163, 163, 163);
+}
